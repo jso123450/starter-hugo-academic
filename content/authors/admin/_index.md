@@ -2,9 +2,9 @@
 # Display name
 title: Johnny So
 
-# Username (this should match the folder name)
-authors:
-  - admin
+# Full name (for SEO)
+first_name: Johnny
+last_name: So
 
 # Is this the primary user of the site?
 superuser: true
@@ -39,9 +39,9 @@ education:
       year: 2020
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
