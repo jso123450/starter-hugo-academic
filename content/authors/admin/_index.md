@@ -56,19 +56,16 @@ social:
     icon_pack: fab
     link: https://github.com/jso123450
   # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/cv.pdf
+    link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
-  - Visitors
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 I am currently a third-year Ph.D. candidate advised by [Professor Nick Nikiforakis at the PragSec Lab](https://securitee.org) in Stony Brook University. I investigate (the lack of) web integrity in various contexts (e.g., domain names and JavaScript) through large-scale experiments, and subsequently design and evaluate defenses that improve the integrity of the web.
